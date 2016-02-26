@@ -1,6 +1,6 @@
 var iconImg;
 var description; 
-var pictures = [ "invoice", "payroll", "calendar", "flyer", "website"];
+var pictures = [ "additional images/invoice", "additional images/payroll", "additional images/calendar", "additional images/flyer", "website"];
 
    var descriptions = [ 
    ("An Invoice(MS Excel)"),
