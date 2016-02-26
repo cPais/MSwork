@@ -1,13 +1,13 @@
 var iconImg;
 var description; 
-var pictures = [ "website", "flyerpicture", "excelpicture", "calculator", "ContactList"];
+var pictures = [ "invoice", "payroll", "calendar", "flyer", "website"];
 
    var descriptions = [ 
-   ("My Website(HTML/CSS/JavaScript)"),
-   ("An Advertisement flyer(MS Word)"),
    ("An Invoice(MS Excel)"),
-   ("A Calculator application(Java) "), 
-   ("A Contact List application(C++)"), 
+   ("A payroll sheet(MS Excel)"),
+   ("A business Calendar(MS Excel)"),
+   ("An Advertisement flyer(MS Word)"), 
+   ("My Website(HTML5/CSS3/JavaScript)"), 
 					  ]; 
    
 var index = 0;
